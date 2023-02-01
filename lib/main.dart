@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/material_banner_widget.dart';
+import 'package:flutter_widgets/material_banner/material_banner_widget.dart';
 
 void main() {
   runApp(const MyApp());
