@@ -1,5 +1,5 @@
 # flutter_widgets
 
 <p align="center">
-<img alt="calculator" width="150" src="">
+<img alt="material banner" width="150" src="">
 </p>
